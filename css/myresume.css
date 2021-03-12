@@ -6,9 +6,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Noto Sans TC', sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6, .subheading{
+.subheading{
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
 	font-size: 1.2rem;
 	font-weight: normal;
+}
+h1, .h1 {
+    font-size: 5rem;
 }
