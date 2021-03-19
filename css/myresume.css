@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Noto Sans TC', sans-serif;
 }
 
-.subheading{
+.subheading {
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 1.2rem;
 	font-weight: normal;
@@ -21,8 +21,16 @@ h1, h2, h3, h4, h5, h6, .subheading {
 h1, .h1 {
     font-size: 5rem;
 }
-.bg-primary{
-	background-color: #f59631!important;
+.bg-primary {
+	background-color: #995a3d!important;
 	background-image: url(../assets/img/always-grey.png);
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.text-primary {
+	color: #995a3d!important;
+}
+
+a {
+	color: #995a3d;
 }
