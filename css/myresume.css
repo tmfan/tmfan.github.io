@@ -24,16 +24,16 @@ h1, .h1 {
     font-size: 5rem;
 }
 .bg-primary {
-	background-color: #995a3d!important;
+	background-color: #0d145e!important;
 	background-image: url(../assets/img/batthern.png);
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
 .text-primary {
-	color: #995a3d!important;
+	color: #0d145e!important;
 }
 
 
 a {
-	color: #995a3d;
+	color: #0d145e;
 }
