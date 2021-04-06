@@ -37,3 +37,9 @@ h1, .h1 {
 a {
 	color: #002687;
 }
+.Interests{
+    font-family: 'Noto Sans TC', sans-serif;
+	font-size: 1.2rem;
+	font-weight: normal;
+	letter-spacing: 1px;
+}
