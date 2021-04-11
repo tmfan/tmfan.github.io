@@ -23,6 +23,9 @@ h1, h2, h3, h4, h5, h6, .subheading {
 h1, .h1 {
     font-size: 5rem;
 }
+h1 {
+	line-height: 1;
+}
 .bg-primary {
 	background-color: #0d145e!important;
 	background-image: url(../assets/img/batthern.png);
@@ -32,8 +35,6 @@ h1, .h1 {
 .text-primary {
 	color: #0d145e!important;
 }
-
-
 a {
 	color: #002687;
 }
