@@ -53,7 +53,3 @@ p {
 .table thead th {
 	text-align: center;
 }
-div#flex_container{
-	display: flex;
-	flex-wrap: wrap;
-}
