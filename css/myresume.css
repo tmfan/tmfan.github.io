@@ -54,5 +54,6 @@ p {
 	text-align: center;
 }
 div#flex_container{
-	display:flex;
+	display: flex;
+	flex-wrap: wrap;
 }
